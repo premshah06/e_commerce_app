@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004510776496",
+    "project_id": "ecommdairy",
+    "storage_bucket": "ecommdairy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004510776496:android:46d8f9aa082fb9c0617f75",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004510776496-mt85pgkdrq09trmv59b0d1n965k6gl61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw_yP2uyQP8i-pphfErEfyDh6jbDqbxwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004510776496-mt85pgkdrq09trmv59b0d1n965k6gl61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
