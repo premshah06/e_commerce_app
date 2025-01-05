@@ -97,10 +97,4 @@ We welcome contributions to enhance the app! Follow these steps to contribute:
 
 ---
 
-## 📧 Contact
-
-For any questions or feedback, feel free to reach out at **[premshah06@gmail.com](mailto:premshah06@gmail.com)**.
-
----
-
 **DairyOnGo** - Simplifying dairy shopping with technology! 🥛🛍️
